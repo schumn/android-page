@@ -3,7 +3,7 @@
 @font-face {
   font-family: android;
   font-weight: normal;
-  src: url(./fontes/idroid.otf);
+  src: url('./fontes/idroid.otf');
 }
 :root {
   --cor0: #A4C639;
